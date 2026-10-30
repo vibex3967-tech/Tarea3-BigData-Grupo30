@@ -1,4 +1,4 @@
-# Tarea3-BigData-Grupo30# Tarea 3 - Procesamiento de Datos con Apache Spark
+# Tarea 3 - Procesamiento de Datos con Apache Spark
 
 **Curso:** Big Data  
 **Grupo:** 30  
